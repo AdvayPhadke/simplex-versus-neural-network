@@ -39,13 +39,9 @@ The simplex method is exact but can be slow for large problems. Neural networks 
 ## Requirements
  
 ```
-numpy
-scipy
-matplotlib
-torch        # or tensorflow
+import matplotlib
+import seaborn
+import pandas as pd
+import torch
+import numpy as np
 ```
- 
----
- 
-
-- [ ] Benchmarking & visualization
