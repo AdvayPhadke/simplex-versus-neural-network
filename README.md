@@ -28,9 +28,9 @@ The simplex method is exact but can be slow for large problems. Neural networks 
 ## Repository Structure
  
 ```
-├── simplex.ipynb          # Stage 1: Simplex implementation
-├── neural_network.ipynb   # Stage 2: Neural network solver
-├── benchmarking.ipynb     # Stage 3: Time vs accuracy analysis
+├── simplex.ipynb         
+├── neural_network.ipynb   
+├── benchmarking.ipynb     
 └── README.md
 ```
  
